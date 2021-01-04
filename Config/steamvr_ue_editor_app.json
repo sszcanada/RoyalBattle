@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.af-14830424.ue4editor.exe",
+			"app_key": "application.generated.ue.avr-11590370.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Projekte/AdvancedFrameworkRepos/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/Projekte/avrframework_git/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "AF-14830424 [UE Editor]"
+					"name": "AVR-11590370 [UE Editor]"
 				}
 			}
 		}

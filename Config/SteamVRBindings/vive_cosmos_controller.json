@@ -6,118 +6,7 @@
 	{
 		"/actions/main":
 		{
-			"sources": [
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/CapTouchPointingLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/CapTouchPointingRight axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/Grip1AxisLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/grip",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/Grip1AxisRight axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/TriggerAxisLeft axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/TriggerAxisRight axis"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/left/input/joystick",
-					"inputs":
-					{
-						"position":
-						{
-							"output": "/actions/main/in/ThumbstickLeft_X,ThumbstickLeft_Y X Y_axis2d"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/joystick",
-					"inputs":
-					{
-						"position":
-						{
-							"output": "/actions/main/in/ThumbstickRight_X,ThumbstickRight_Y X Y_axis2d"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/SteamVRBindings axis"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"pull":
-						{
-							"output": "/actions/main/in/SteamVRBindings axis"
-						}
-					}
-				}
-			],
+			"sources": [],
 			"poses": [
 				{
 					"output": "/actions/main/in/controllerleft",
@@ -151,5 +40,5 @@
 			]
 		}
 	},
-	"description": "AF-14685802"
+	"description": "AVR-11590370"
 }
