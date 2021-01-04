@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Copyright Assets
-AFCore/*
-Splash/*
+Content/AFCore/*
+Content/Splash/*
