@@ -73,6 +73,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Packaged builds on SSZ local machine
+.PACKAGED
+
 # Copyright Assets
 Content/AFCore/*
 Content/Splash/*
+Content/InfinityBladeWeapons/*
