@@ -7,18 +7,29 @@ Some files we are not allowed to incluce becase of copyright. Below is a list of
 
 
 # Required Assets & Plugins
-SSZCode Comminity Edition (Made by SSZCanada)  (FREE)
+**SSZCode Comminity Edition (Made by SSZCanada)  (FREE)**
+<br>
 https://unrealengine.com/marketplace/en-US/product/sszcode-community-edition
-
-Advanced Framework - VR, Mobile & Desktop (Made by Human Codeable)  (PAID)
+<br>
+<br>
+**Advanced Framework - VR, Mobile & Desktop (Made by Human Codeable)  (PAID)**
+<br>
 https://www.unrealengine.com/marketplace/en-US/product/advanced-vr-framework
-
-Infinity Blade: Weapons (Made by Unreal Engine)  (FREE)
+<br>
+<br>
+**Infinity Blade: Weapons (Made by Unreal Engine)  (FREE)**
+<br>
 https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons
-
-PowerIK (Made by Unreal Engine)  (FREE)
+<br>
+<br>
+**PowerIK (Made by Unreal Engine)  (FREE)**
+<br>
 https://www.unrealengine.com/marketplace/en-US/product/power-ik
-
+<br>
+<br>
 # Optional Assets & Plugins
-Electronic Nodes (Made by Herobrine20XX)  (PAID)
+**Electronic Nodes (Made by Herobrine20XX)  (PAID)**
+<br>
 https://www.unrealengine.com/marketplace/en-US/product/electronic-nodes
+<br>
+<br>
