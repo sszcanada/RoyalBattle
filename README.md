@@ -37,6 +37,9 @@ https://www.unrealengine.com/marketplace/en-US/product/electronic-nodes
 **This repo was built live on stream. Click the link below to watch**
 <br>
 https://www.twitch.tv/collections/ZTTErUQjVxb21A
+<br>
+<br>
+Please keep in mind this series focues on taking a game idea and turing it into a game and includes finding bugs, problems soving, thought processes, and other stuff. It's not ment to be a stright forward lesson plan in each episode. The gaol of the series was to take everyone on a journy frm idea to created game and show every bump along the road to get there. I hope you like the series and find information in there that is of use to you. If not you can just download the repo and look at the work to learn without listening to me poorly explain what I am doing :)
 
 # Started & completed List
 [Completed] Project Setup (Episode 1)
