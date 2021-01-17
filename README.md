@@ -46,12 +46,24 @@ Please keep in mind this series focues on taking a game idea and turing it into 
 # Started & completed List
 [Completed] Project Setup (Episode 1)
 <br>
+<br>
 [Completed] Downloading Royal Battle Project Form Git repository (Episode 1)
+<br>
 <br>
 [Completed] Advanced Framework 4.0 Preview (Episode 1)
 <br>
+<br>
 [Started] Adding Arms To Pawn (Episode 2)
+<br>
 <br>
 [Started] Inventory Component (Episode 2)
 <br>
+<br>
 [Started] Character Data System (Episode 2)
+<br>
+<br>
+[ADDED] Easy Menu Creator from Human Codeable Discord.
+<br>
+https://discord.com/channels/593265622507585539/693735039833473066/799714979250176000
+<br>
+<br>
